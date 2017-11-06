@@ -1,4 +1,4 @@
 var playlist = {
-  artistName: Kendrick Lamar
-  songTitle: Humble
+  artistName: 'Kendrick Lamar'
+  songTitle: 'Humble'
 }
