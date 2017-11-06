@@ -9,4 +9,4 @@ function removeFromPlaylist(playlist, artistName) {
   delete playlist.artistName
   return playlist
 }
-const playlist = {Kanye: "Gold Digger"}
+var playlist = {Kanye: "Gold Digger"}
