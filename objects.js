@@ -1,4 +1,4 @@
-const playlist = {Kanye: 'Gold Digger'}
+const playlist = {Artist: 'Title'}
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
